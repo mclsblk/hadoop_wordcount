@@ -18,7 +18,7 @@
 - `src/main/java/com/example/Main.java`：作业主类（Mapper/Combiner/Reducer/Driver）
 - `target/*.jar`：打包产物
 - `pom.xml`：依赖与 Shade 打包配置
-- `result/`、`result-1/`：运行输出
+- `result/`、`result-1/`：运行输出（其中`result-1/`为代码改进前的结果）。
 - `pic/`：运行截图与结果报告
 - `README.md`：介绍与实验报告
 
